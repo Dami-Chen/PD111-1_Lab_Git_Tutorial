@@ -1,1 +1,2 @@
-int kid;
+int kid = 'k' + 'i' + 'd';
+
